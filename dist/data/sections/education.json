@@ -1,0 +1,109 @@
+{
+    "locales": {
+        "en": {
+            "title": "<span class='text-primary'>Educational</span> Background",
+            "description": "A glimpse into my academic trajectory and accomplishments."
+        },
+
+        "es": {
+            "title": "Antecedentes <span class='text-primary'>Educativos</span>",
+            "description": "Un vistazo a mi trayectoria académica y logros."
+        },
+
+        "fr": {
+            "title": "Parcours <span class='text-primary'>Éducatif</span>",
+            "description": "Un aperçu de mon parcours académique et de mes réalisations."
+        },
+
+        "zh": {
+            "title": "<span class='text-primary'>教育</span> 背景",
+            "description": "一瞥我的学术轨迹和成就。"
+        }
+    },
+
+    "items": [
+        {
+            "id": "elem_rva",
+            "place": "@link{places.rva}",
+            "period": ["2004/03", "2010/03"],
+
+            "locales": {
+                "en": {
+                    "title": "Bachelor of Science in Information Technology",
+                    "description": "Completed an intensive program focusing on user-centered design principles, usability testing, and interaction design. Developed skills in wireframing, prototyping, and user research methodologies."
+                },
+
+                "es": {
+                    "title": "Maestría en Interacción Humano-Computadora",
+                    "description": "Completó un programa intensivo centrado en los principios de diseño centrado en el usuario, pruebas de usabilidad y diseño de interacción. Desarrolló habilidades en la creación de wireframes, prototipado y metodologías de investigación de usuarios."
+                },
+
+                "fr": {
+                    "title": "Master en Interaction Humain-Ordinateur",
+                    "description": "A achevé un programme intensif axé sur les principes de conception centrés sur l'utilisateur, les tests de convivialité et la conception d'interaction. Développé des compétences en wireframing, en prototypage et en méthodologies de recherche utilisateur."
+                },
+
+                "zh": {
+                    "title": "人机交互硕士学位",
+                    "description": "完成了一项专注于以用户为中心的设计原则、可用性测试和交互设计的密集课程。培养了线框图、原型制作和用户研究方法方面的技能。"
+                }
+            }
+        },
+
+        {
+            "id": "hs_hcm",
+            "place": "@link{places.hcm}",
+            "period": ["2010/03", "2014/03"],
+
+            "locales": {
+                "en": {
+                    "title": "Graduated in High School",
+                    "description": "Completed an intensive program focusing on user-centered design principles, usability testing, and interaction design. Developed skills in wireframing, prototyping, and user research methodologies."
+                },
+
+                "es": {
+                    "title": "Maestría en Interacción Humano-Computadora",
+                    "description": "Completó un programa intensivo centrado en los principios de diseño centrado en el usuario, pruebas de usabilidad y diseño de interacción. Desarrolló habilidades en la creación de wireframes, prototipado y metodologías de investigación de usuarios."
+                },
+
+                "fr": {
+                    "title": "Master en Interaction Humain-Ordinateur",
+                    "description": "A achevé un programme intensif axé sur les principes de conception centrés sur l'utilisateur, les tests de convivialité et la conception d'interaction. Développé des compétences en wireframing, en prototypage et en méthodologies de recherche utilisateur."
+                },
+
+                "zh": {
+                    "title": "人机交互硕士学位",
+                    "description": "完成了一项专注于以用户为中心的设计原则、可用性测试和交互设计的密集课程。培养了线框图、原型制作和用户研究方法方面的技能。"
+                }
+            }
+        },
+
+        {
+            "id": "college_pwc",
+            "place": "@link{places.pwc}",
+            "period": ["2014/03", "2018/03"],
+
+            "locales": {
+                "en": {
+                    "title": "Graduated in Elementary School",
+                    "description": "Completed an intensive program focusing on user-centered design principles, usability testing, and interaction design. Developed skills in wireframing, prototyping, and user research methodologies."
+                },
+
+                "es": {
+                    "title": "Maestría en Interacción Humano-Computadora",
+                    "description": "Completó un programa intensivo centrado en los principios de diseño centrado en el usuario, pruebas de usabilidad y diseño de interacción. Desarrolló habilidades en la creación de wireframes, prototipado y metodologías de investigación de usuarios."
+                },
+
+                "fr": {
+                    "title": "Master en Interaction Humain-Ordinateur",
+                    "description": "A achevé un programme intensif axé sur les principes de conception centrés sur l'utilisateur, les tests de convivialité et la conception d'interaction. Développé des compétences en wireframing, en prototypage et en méthodologies de recherche utilisateur."
+                },
+
+                "zh": {
+                    "title": "人机交互硕士学位",
+                    "description": "完成了一项专注于以用户为中心的设计原则、可用性测试和交互设计的密集课程。培养了线框图、原型制作和用户研究方法方面的技能。"
+                }
+            }
+        }
+    ]
+}

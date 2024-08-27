@@ -1,0 +1,75 @@
+{
+    "name": "Jomarie Espino",
+    "profilePictureUrl": "images/pictures/mypic.jpg",
+
+    "locales": {
+        "en": {
+            "credits": "Designed by <strong><a class='light' href='https://github.com/Jom-Dev'>Jomarie Espino</a></strong>",
+            "role": "Web Developer"
+        },
+
+        "es": {
+            "credits": "Hecho por <strong><a class='light' href='https://github.com/Jom-Dev'>Jomarie Espino</a></strong>",
+            "role": "Designer de UX"
+        },
+
+        "fr": {
+            "credits": "Conçu par <strong><a class='light' href='https://github.com/Jom-Dev'>Jomarie Espino</a></strong>",
+            "role": "Designer UX"
+        },
+
+        "zh": {
+            "credits": "设计：<strong><a class='light' href='https://github.com/Jom-Dev'>Jomarie Espino</a></strong>",
+            "role": "用户体验设计师"
+        }
+    },
+
+    "contact": {
+        "address": {
+            "id": "address",
+            "value": "Philippines",
+            "valueShort": "Philippines",
+            "faIcon": "fa-solid fa-city",
+            "href": null
+        },
+        "email": {
+            "id": "email",
+            "value": "espino.jomarie@gmail.com",
+            "valueShort": "espino.jomarie@gmail.com",
+            "faIcon": "fa-solid fa-envelope",
+            "href": "mailto:espino.jomarie@gmail.com"
+        },
+
+        "facebook": {
+            "id": "facebook",
+            "value": "Jomarie Espino",
+            "valueShort": "J. Espino",
+            "faIcon": "fa-brands fa-facebook",
+            "href": "https://facebook.com"
+        },
+
+        "github": {
+            "id": "github",
+            "value": "@espino.jomarie@gmail.com",
+            "valueShort": "@espino.jomarie@gmail.com",
+            "faIcon": "fa-brands fa-github",
+            "href": "https://github.com"
+        },
+
+        "linkedin": {
+            "id": "linkedin",
+            "value": "@https://www.linkedin.com/in/jomarie-espino-aa847a233/",
+            "valueShort": "@https://www.linkedin.com/in/jomarie-espino-aa847a233/",
+            "faIcon": "fa-brands fa-linkedin",
+            "href": "https://linkedin.com"
+        },
+
+        "resume": {
+            "id": "resume",
+            "value": "@https://www.linkedin.com/in/jomarie-espino-aa847a233/",
+            "valueShort": "@https://www.linkedin.com/in/jomarie-espino-aa847a233/",
+            "faIcon": "fa-solid fa-file",
+            "href": "https://linkedin.com"
+        }
+    }
+}
