@@ -77,11 +77,19 @@
         }
     },
 
+    "dvo": {
+        "logoUrl": "images/places/dvo.png",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {"name": "City Government of Davao"}
+        }
+    },
+
     "pwc": {
         "logoUrl": "images/places/pwc.png",
         "faIcon": "fas fa-university",
         "locales": {
-            "en": {"name": "Philippines Women's College of Davao"},
+            "en": {"name": "College"},
             "es": {"name": "Universidad de París"},
             "fr": {"name": "Université de Paris"},
             "zh": {"name": "巴黎大学"}
@@ -89,10 +97,10 @@
     },
 
     "hcm": {
-        "logoUrl": "images/places/hcm.png",
+        "logoUrl": "images/places/hcm.jpg",
         "faIcon": "fas fa-university",
         "locales": {
-            "en": {"name": "Holy Cross of Mintal"},
+            "en": {"name": "High School"},
             "es": {"name": "Universidad de París"},
             "fr": {"name": "Université de Paris"},
             "zh": {"name": "巴黎大学"}
@@ -103,7 +111,7 @@
         "logoUrl": "images/places/rva.png",
         "faIcon": "fas fa-university",
         "locales": {
-            "en": {"name": "Royal Valley Academy"},
+            "en": {"name": "Elementary"},
             "es": {"name": "Universidad de París"},
             "fr": {"name": "Université de Paris"},
             "zh": {"name": "巴黎大学"}

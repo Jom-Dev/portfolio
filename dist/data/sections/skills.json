@@ -207,7 +207,7 @@
             {
                 "imageIconUrl": null,
                 "faIcon": "fa-brands fa-laravel",
-                "value": 65,
+                "value": 80,
                 "locales": {
                     "en": {"title": "Laravel", "description": "Experience Time: 2 years"},
                     "es": {"title": "Sass/Less", "description": "Experiencia: 2 años"},
@@ -221,7 +221,7 @@
                 "faIcon": "fa-solid fa-database",
                 "value": 90,
                 "locales": {
-                    "en": {"title": "MySQL", "description": "Experience Time: 3 years"},
+                    "en": {"title": "MySQL", "description": "Experience Time: 2 years"},
                     "es": {"title": "MySQL", "description": "Experiencia: 3 años"},
                     "fr": {"title": "MySQL", "description": "Expérience : 3 ans"},
                     "zh": {"title": "MySQL", "description": "经验时长：3年"}
@@ -231,9 +231,9 @@
             {
                 "imageIconUrl": null,
                 "faIcon": "fab fa-vuejs",
-                "value": 100,
+                "value": 60,
                 "locales": {
-                    "en": {"title": "Vue 3", "description": "Experience Time: 2 years"},
+                    "en": {"title": "Vue 3", "description": "Experience Time: 1 year"},
                     "es": {"title": "Vue 3", "description": "Experiencia: 2 años"},
                     "fr": {"title": "Vue 3", "description": "Expérience : 2 ans"},
                     "zh": {"title": "Vue 3", "description": "经验时长：2年"}
@@ -243,9 +243,9 @@
             {
                 "imageIconUrl": null,
                 "faIcon": "fab fa-js-square",
-                "value": 75,
+                "value": 40,
                 "locales": {
-                    "en": {"title": "Nuxt", "description": "Nanodegree in React development (Udacity)<br>Experience time: 1 year"},
+                    "en": {"title": "Nuxt", "description": "Experience time: 1 year"},
                     "es": {"title": "Nuxt", "description": "Nanodegree de desarrollo React (Udacity)<br>Experiencia: 1 año"},
                     "fr": {"title": "Nuxt", "description": "Nanodegré en développement React (Udacity)<br>Expérience : 1 an"},
                     "zh": {"title": "Nuxt", "description": "React开发纳米学位毕业生（优达学城）<br>经验时长：1年"}

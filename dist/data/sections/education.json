@@ -2,7 +2,7 @@
     "locales": {
         "en": {
             "title": "<span class='text-primary'>Educational</span> Background",
-            "description": "A glimpse into my academic trajectory and accomplishments."
+            "description": "A glimpse into my academic trajectory."
         },
 
         "es": {
@@ -25,12 +25,12 @@
         {
             "id": "elem_rva",
             "place": "@link{places.rva}",
-            "period": ["2004/03", "2010/03"],
+            "period": ["2000/03", "2006/03"],
 
             "locales": {
                 "en": {
-                    "title": "Bachelor of Science in Information Technology",
-                    "description": "Completed an intensive program focusing on user-centered design principles, usability testing, and interaction design. Developed skills in wireframing, prototyping, and user research methodologies."
+                    "title": "Royal Valley Academy",
+                    "description": ""
                 },
 
                 "es": {
@@ -49,16 +49,16 @@
                 }
             }
         },
-
+        
         {
             "id": "hs_hcm",
             "place": "@link{places.hcm}",
-            "period": ["2010/03", "2014/03"],
+            "period": ["2006/03", "2010/03"],
 
             "locales": {
                 "en": {
-                    "title": "Graduated in High School",
-                    "description": "Completed an intensive program focusing on user-centered design principles, usability testing, and interaction design. Developed skills in wireframing, prototyping, and user research methodologies."
+                    "title": "Holy Cross of Mintal",
+                    "description": ""
                 },
 
                 "es": {
@@ -85,8 +85,8 @@
 
             "locales": {
                 "en": {
-                    "title": "Graduated in Elementary School",
-                    "description": "Completed an intensive program focusing on user-centered design principles, usability testing, and interaction design. Developed skills in wireframing, prototyping, and user research methodologies."
+                    "title": "Philippine Women's College of Davao",
+                    "description": ""
                 },
 
                 "es": {

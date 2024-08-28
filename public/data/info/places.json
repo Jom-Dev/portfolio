@@ -77,6 +77,14 @@
         }
     },
 
+    "dvo": {
+        "logoUrl": "images/places/dvo.png",
+        "faIcon": "fas fa-paint-brush",
+        "locales": {
+            "en": {"name": "City Government of Davao"}
+        }
+    },
+
     "pwc": {
         "logoUrl": "images/places/pwc.png",
         "faIcon": "fas fa-university",
@@ -89,7 +97,7 @@
     },
 
     "hcm": {
-        "logoUrl": "images/places/hcm.png",
+        "logoUrl": "images/places/hcm.jpg",
         "faIcon": "fas fa-university",
         "locales": {
             "en": {"name": "High School"},
