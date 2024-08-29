@@ -45,31 +45,31 @@
             "value": "Jomarie Espino",
             "valueShort": "J. Espino",
             "faIcon": "fa-brands fa-facebook",
-            "href": "https://facebook.com"
+            "href": "https://www.facebook.com/Jomarie.Espino.06?mibextid=ZbWKwL"
         },
 
         "github": {
             "id": "github",
-            "value": "@espino.jomarie@gmail.com",
-            "valueShort": "@espino.jomarie@gmail.com",
+            "value": "@https://github.com/Jom-Dev",
+            "valueShort": "@https://github.com/Jom-Dev",
             "faIcon": "fa-brands fa-github",
-            "href": "https://github.com"
+            "href": "https://github.com/Jom-Dev"
         },
 
         "linkedin": {
             "id": "linkedin",
-            "value": "@https://www.linkedin.com/in/jomarie-espino-aa847a233/",
-            "valueShort": "@https://www.linkedin.com/in/jomarie-espino-aa847a233/",
+            "value": "https://www.linkedin.com/in/jomarie-espino",
+            "valueShort": "https://www.linkedin.com/in/jomarie-espino",
             "faIcon": "fa-brands fa-linkedin",
-            "href": "https://linkedin.com"
+            "href": "https://www.linkedin.com/in/jomarie-espino-aa847a233/"
         },
 
         "resume": {
             "id": "resume",
-            "value": "@https://www.linkedin.com/in/jomarie-espino-aa847a233/",
-            "valueShort": "@https://www.linkedin.com/in/jomarie-espino-aa847a233/",
+            "value": "Download",
+            "valueShort": "Download",
             "faIcon": "fa-solid fa-file",
-            "href": "https://linkedin.com"
+            "href": "https://drive.google.com/file/d/1G16QPV0BNXTvX_mqtdKMD09RF18PDOgy/view?usp=sharing"
         }
     }
 }

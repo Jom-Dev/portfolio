@@ -25,7 +25,7 @@
         {
             "id": "elem_rva",
             "place": "@link{places.rva}",
-            "period": ["2000/03", "2006/03"],
+            "period": ["2000/06", "2006/03"],
 
             "locales": {
                 "en": {
@@ -53,7 +53,7 @@
         {
             "id": "hs_hcm",
             "place": "@link{places.hcm}",
-            "period": ["2006/03", "2010/03"],
+            "period": ["2006/06", "2010/03"],
 
             "locales": {
                 "en": {
@@ -81,7 +81,7 @@
         {
             "id": "college_pwc",
             "place": "@link{places.pwc}",
-            "period": ["2014/03", "2018/03"],
+            "period": ["2014/06", "2018/03"],
 
             "locales": {
                 "en": {
