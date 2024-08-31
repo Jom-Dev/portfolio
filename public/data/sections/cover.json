@@ -29,7 +29,6 @@
         "socialCircles": [
             "@link{profile.contact.facebook}",
             "@link{profile.contact.linkedin}",
-            "@link{profile.contact.github}",
             "@link{profile.contact.resume}"
         ],
 

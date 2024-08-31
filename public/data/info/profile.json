@@ -48,14 +48,6 @@
             "href": "https://www.facebook.com/Jomarie.Espino.06?mibextid=ZbWKwL"
         },
 
-        "github": {
-            "id": "github",
-            "value": "@https://github.com/Jom-Dev",
-            "valueShort": "@https://github.com/Jom-Dev",
-            "faIcon": "fa-brands fa-github",
-            "href": "https://github.com/Jom-Dev"
-        },
-
         "linkedin": {
             "id": "linkedin",
             "value": "https://www.linkedin.com/in/jomarie-espino",
