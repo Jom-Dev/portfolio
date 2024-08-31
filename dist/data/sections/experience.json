@@ -85,7 +85,7 @@
             "locales": {
                 "en": {
                     "title": "Web Developer",
-                    "description": "Developed web applications based on the needs of the city and office requests. Maintaining fast and effecient web applications for the convenience of the city residents.",
+                    "description": "Developed web applications based on the needs of the city and office requests. Maintaining fast and efficient web applications for the convenience of the city residents.",
                     "tags": ["Git", "Laravel", "MySQL", "Nuxt", "VueJS", "Tailwind", "PHP", "Bootstrap", "Javascript", "CSS", "HTML"]
                 },
                 "es": {
